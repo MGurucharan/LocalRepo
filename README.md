@@ -1,1 +1,2 @@
-Hey all this is my first GitHub repos.
+Hey all! , 
+This is my first GitHub Repo using new branch 
